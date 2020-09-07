@@ -4,7 +4,7 @@ a dashboard to display power-usage data of high-power machines in Sears think[bo
 
 ## Setup
 
-- clone the repo: `git clone https://github.com/cwru-ecse398-17/thinkbox-usage-dashboard`
+- clone the repo: `git clone https://github.com/cwru-ecse398-17/thinkbox-usage-dashboard.git`
 - enter the repo: `cd thinkbox-usage-dashboard`
 - install npm packages: `npm install` (make sure you have [nodejs](https://nodejs.org))
 - install grunt: `npm install grunt-cli --save-dev`
