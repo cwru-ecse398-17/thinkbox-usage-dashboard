@@ -8,7 +8,7 @@ a dashboard to display power-usage data of high-power machines in Sears think[bo
 - enter the repo: `cd thinkbox-usage-dashboard`
 - install npm packages: `npm install` (make sure you have [nodejs](https://nodejs.org))
 - install grunt: `npm install grunt-cli --save-dev`
-- perform freeboard grunt setup: `grunt`
+- perform freeboard grunt setup: `node_modules/grunt-cli/bin/grunt`
 - open `index.html` in a web browser
     - optionally, start a web server to serve the pages: 
         - e.g. `python -m http.server --bind localhost 8080` 
